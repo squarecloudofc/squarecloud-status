@@ -1,0 +1,32 @@
+{
+  "name": "@squarecloudofc/status",
+  "version": "1.0.0",
+  "description": "Module created in order to provide certain information about your applications.",
+  "main": "src/index.js",
+  "files": [
+    "types/index.d.ts"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Square Cloud | Development Team",
+  "license": "Apache-2.0",
+  "keywords": [
+    "discord",
+    "bot",
+    "status",
+    "ram",
+    "square",
+    "cloud",
+    "squarecloud",
+    "host"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/squarecloudofc/squarecloud-status.git"
+  },
+  "bugs": {
+    "url": "https://github.com/squarecloudofc/squarecloud-status/issues"
+  },
+  "homepage": "https://github.com/squarecloudofc/squarecloud-status#readme"
+}
