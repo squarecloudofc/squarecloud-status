@@ -7,7 +7,7 @@ npm install @squarecloud/status
 ```
 
 ```javascript
-const { ram, ramTotal, ramUsed } = require("squarecloud-status");
+const { ram, ramTotal, ramUsed } = require("@squarecloud/status");
 
 console.log(ram()) // 23/100MB
 console.log(ramUsed()) // 23
